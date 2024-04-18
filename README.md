@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spiegelxz
+- 👋 Hi, I’m @dastankagan
 - 👀 I’m interested in Game dev, Software engineering etc.
 - 🌱 I’m currently learning C++ and SFML.
 - 💞️ I’m looking to collaborate on ...
