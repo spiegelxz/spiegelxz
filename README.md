@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dastankagan
-- 👀 I’m interested in IOS dev, Game dev, Software engineering etc.
-- 🌱 I’m currently learning, Swift, Python SwiftUI, and AI.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IOS dev, BackEnd dev, Game dev, Software engineering etc.
+- 🌱 I’m currently learning, Swift, Python, SwiftUI, and LLM.
+- 💞️ I’m looking to collaborate on startups 
 - 📫 How to reach me ...
 
 <!---
